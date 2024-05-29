@@ -1,4 +1,4 @@
-Microsoft Excel Survival is a Survival, Top Down, Turn Based, Shoot-em up game. You're meant to collect coins and corpses while you survive and ever growing army of red cells.
+Microsoft Excel Survival is a Survival, Top Down, Turn Based. You're meant to collect coins and corpses while you survive and ever growing army of red cells.
 The more moves you make the harder the game becomes with the added benefit of coins spawning faster.
 
 This game requires Microsoft Excel to play.
